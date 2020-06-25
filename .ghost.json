@@ -1,10 +1,12 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://memovdg.herokuapp.com",
+    "contentApiKey": "7127170131620d755e30249667",
+    "version": "v2"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://memovdg.herokuapp.com",
+    "contentApiKey": "7127170131620d755e30249667",
+    "version": "v2"
   }
 }
